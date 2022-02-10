@@ -1,0 +1,13 @@
+.gpt3__header {
+  display: flex;
+  border-top: 1px solid gold;
+}
+
+.gpt3__header-content {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  justify-self: center;
+  align-items: flex-start;
+  margin-right: 5rem;
+}
